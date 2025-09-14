@@ -94,7 +94,10 @@ VAR boots = false
 
 == tragic_pic
 // Кат-сцены трагического варианта
-#Location: 
+#Location: Tragic1
+#Location: Tragic2
+#Location: Tragic3
+#Location: Black
 -> In_the_bar
     
 == colour
